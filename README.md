@@ -1,9 +1,11 @@
 ## Olar, meu nome é Marcelo Hori. 👋
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelohori&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohori&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/GabrielaZanetti">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelohori&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohori&layout=compact&theme=radical"/>
+  </a>
+</div>
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo Hori" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcelo Hori" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,7 +15,7 @@
   <img align="center" alt="Marcelo Hori" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo Hori" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+</div>
   ##
  
 <div> 
@@ -23,4 +25,8 @@
   
 </div>
 
-![snake gif](https://github.com/marcelohori/marcelohori/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelohori/marcelohori/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelohori/marcelohori/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcelohori/marcelohori/output/github-contribution-grid-snake.svg">
+</picture>
