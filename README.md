@@ -1,8 +1,8 @@
 ## Olar, meu nome é Marcelo Hori. 👋
 <div align="center">
   <a href="https://github.com/marcelohori">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelohori&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohori&layout=compact&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats-red-kappa-92.vercel.app/api?username=marcelohori&show_icons=true&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats-red-kappa-92.vercel.app/api/top-langs/?username=marcelohori&layout=compact&theme=radical"/>
   </a>
 </div>
 <div align="center">
